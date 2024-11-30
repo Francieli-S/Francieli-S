@@ -2,11 +2,11 @@
 
 Hi there👋, I'm Francieli!
 
-- 🔭 I’m currently working on a side project
-- 🌱 I am learning React, TypeScript, and testing
-- 💬 I speak English, Portuguese and nur ein bisschen Deutsch
-- 🏠 I live in Berlin
-- 📌 I'm currently looking for a job or internship
+- 🔭 I am currently pursuing a Fullstack Engineering program that will conclude in February 2025, while also working on several projects.  
+- 🌱 I am learning various technologies, including TypeScript, PostgreSQL, RESTful APIs, testing, Docker, AWS, React, Next.js, and Redux, among other skills.  
+- 💬 I speak English, Portuguese, and nur ein bisschen Deutsch.  
+- 🏠 I live in Berlin.  
+- 📌 I am currently seeking a job or internship starting in 2025.  
   
 ##
 
